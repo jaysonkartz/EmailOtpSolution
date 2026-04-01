@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="EmailOtpApi/EmailOtpApi.csproj" />
+  <Project Path="EmailOtpCore/EmailOtpCore.csproj" />
+  <Project Path="EmailOtpInfrastructure/EmailOtpInfrastructure.csproj" />
+  <Project Path="EmailOtpModule.Tests/EmailOtpModule.Tests.csproj" />
+</Solution>
